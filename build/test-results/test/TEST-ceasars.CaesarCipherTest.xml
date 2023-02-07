@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ceasars.CaesarCipherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-07T08:43:14" hostname="Gs-MacBook-Air.attlocal.net" time="0.034">
+  <properties/>
+  <testcase name="shouldTestForCipherMessaegOffsetOf12()" classname="ceasars.CaesarCipherTest" time="0.029"/>
+  <testcase name="ShouldTestEmptyString()" classname="ceasars.CaesarCipherTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
